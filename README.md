@@ -22,3 +22,5 @@ java -jar signapk.jar platform.x509.pem platform.pk8 app-debug.apk new.apk
 ```
 adb install new.apk
 ```
+# ScreenShot
+![WRFileDemo Screenshot](https://github.com/leavs/WRFileDemo/blob/master/screenshots/WRFileDemo.png)
